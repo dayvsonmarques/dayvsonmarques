@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mim
 
-#### Possuo bastante experiência em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. Experiência no desenvolvimento de sites, e-commerces e aplicações web (gestão de dados, análise de marketing, e-learning/ead, CRM e plataformas de streaming). Graduado em Sistemas de Informação (UniNabuco, 2012).
+#### Possuo sólida vivência em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. Experiência no desenvolvimento de sites, e-commerces e aplicações web (gestão de dados, análise de marketing, e-learning/ead, CRM e plataformas de streaming). Graduado em Sistemas de Informação (UniNabuco, 2012).
 
 **Experiência sólida** no desenvolvimento de:
 - 🛠️ Sites, Blogs, Portfólio, Landing Pages.

@@ -1,4 +1,4 @@
-# Dayvson Marques!
+# Dayvson Marques
 
 ### Recife, Brasil | 36 anos | Desenvolvedor Web Full Stack | 15+ anos de experiência
 

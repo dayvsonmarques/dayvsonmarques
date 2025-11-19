@@ -1,16 +1,18 @@
-# 👋 Olá, eu sou Dayvson Marques!
+# Dayvson Marques!
 
-### **Desenvolvedor Full Stack | 15+ anos de experiência | Engenheiro de Software**
+### **Desenvolvedor Web Full Stack | 15+ anos de experiência | **
 
 ![GitHub followers](https://img.shields.io/github/followers/seu-username?style=social)
 ![Visitors](https://komarev.com/ghpvc/?username=seu-username&color=blueviolet)
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor web full stack com **+15 anos de experiência** em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. 
+Sou de Recife, tenho 36 anos, possuo bastante experiência em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. 
+Experiência no desenvolvimento de sites, e-commerces e aplicações web (gestão de dados, análise de marketing, e-learning/ead, CRM e plataformas de streaming). 
+Graduado em Sistemas de Informação (UniNabuco, 2012).
 
 **Experiência sólida** no desenvolvimento de:
-- 🛒 **E-commerces** (B2B/B2C) com WooCommerce
+- 🛒 **E-commerces** (B2B/B2C) com Laravel e WooCommerce
 - 📊 **Aplicações web** para gestão de dados e análise de marketing
 - 🎓 **Plataformas E-learning/EAD**
 - 🤝 **Sistemas CRM** 
@@ -79,17 +81,6 @@ Desenvolvedor web full stack com **+15 anos de experiência** em fábricas de so
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
-
-<div align="center">
-
-![Seu GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu-username&theme=radical)
-
-</div>
 
 ## 🏆 Experiência em Metodologias
 

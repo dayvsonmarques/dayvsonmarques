@@ -19,8 +19,6 @@
 - 📺 **Plataformas de streaming**
 - 🏗️ **Design Systems** e aplicações escaláveis
 
-**Formação:** Graduado em Sistemas de Informação (UniNabuco, 2012)
-
 ## 🛠️ Tech Stack & Ferramentas
 
 ### **Frontend & Mobile**

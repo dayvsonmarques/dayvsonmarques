@@ -1,17 +1,17 @@
 # Dayvson Marques!
 
-### **Desenvolvedor Web Full Stack | 15+ anos de experiência | **
+### **Recife, Brasil | 36 anos | Desenvolvedor Web Full Stack | 15+ anos de experiência | **
 
-![GitHub followers](https://img.shields.io/github/followers/seu-username?style=social)
-![Visitors](https://komarev.com/ghpvc/?username=seu-username&color=blueviolet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayvsonmarques)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dayvsonmarques.dev.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayvson.marques@gmail.com)
 
 ## 🚀 Sobre Mim
 
-Sou de Recife, tenho 36 anos, possuo bastante experiência em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. 
-Experiência no desenvolvimento de sites, e-commerces e aplicações web (gestão de dados, análise de marketing, e-learning/ead, CRM e plataformas de streaming). 
-Graduado em Sistemas de Informação (UniNabuco, 2012).
+#### Possuo bastante experiência em fábricas de software, agências digitais, estúdios criativos, startups e projetos freelance. Experiência no desenvolvimento de sites, e-commerces e aplicações web (gestão de dados, análise de marketing, e-learning/ead, CRM e plataformas de streaming). Graduado em Sistemas de Informação (UniNabuco, 2012).
 
 **Experiência sólida** no desenvolvimento de:
+- 🛠️ Sites, Blogs, Portfólio, Landing Pages.
 - 🛒 **E-commerces** (B2B/B2C) com Laravel e WooCommerce
 - 📊 **Aplicações web** para gestão de dados e análise de marketing
 - 🎓 **Plataformas E-learning/EAD**
@@ -102,16 +102,12 @@ Graduado em Sistemas de Informação (UniNabuco, 2012).
 - **Data-intensive Applications** - Gestão e análise de dados
 - **Performance Optimization** - Otimização e escalabilidade
 
-## 📫 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayvsonmarques)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://dayvsonmarques.dev.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayvson.marques@gmail.com)
-
 ---
 
 <div align="center">
 
 **"The most important pattern is the one that keeps things simple."** - Gang of Four (GoF)
+
+![Visitors](https://komarev.com/ghpvc/?username=seu-username&color=blueviolet)
 
 </div>
